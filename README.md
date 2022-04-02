@@ -33,3 +33,7 @@ firebase provides lot's of way to user authenticates.
 # Step 1 :  Create Flutter Project.
 
 ![alt text](./ScreenshotFirebase.png)
+
+create a new Firebase project by going to the console. https://console.firebase.google.com/
+
+![alt text](./flutter-authentication-page.png)
